@@ -10,4 +10,4 @@ Simple python script to solve math equations on https://matemax.knur.club/.
 5. Run the app using ```python main.py```
 
 ## Example
-![Example image](https://s9.gifyu.com/images/SFO8u.gif)
+![Example image](knurSolverExample.gif)
